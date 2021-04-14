@@ -142,7 +142,9 @@ h4 {
   line-height: 32px;
 }
 .product_name p{
-  Size: 14px
+  Size: 14px;
   line-height: 20px;
 }
-
+.product_wrapper{
+  overflow: auto;
+}
